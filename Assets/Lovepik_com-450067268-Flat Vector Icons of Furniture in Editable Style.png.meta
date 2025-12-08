@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 4751ea8bd61a155428850cb1e5605ad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6496251640487757087
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_0
+  - first:
+      213: -8782367006869370434
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_1
+  - first:
+      213: 185275432679567350
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_2
+  - first:
+      213: 8231144616764657928
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_3
+  - first:
+      213: 7557518007682908278
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_4
+  - first:
+      213: 922887718225469083
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_5
+  - first:
+      213: -5421809863338769757
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_6
+  - first:
+      213: -6882994395590743416
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_7
+  - first:
+      213: -6302257782330269721
+    second: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1409
+        width: 487
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1542dac272572a50800000000000000
+      internalID: 6496251640487757087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1445
+        width: 496
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9c07cfcb3ce1680800000000000000
+      internalID: -8782367006869370434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_2
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1404
+        width: 440
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe87e360b329200800000000000000
+      internalID: 185275432679567350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 751
+        width: 281
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80150212b66ea3270800000000000000
+      internalID: 8231144616764657928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_4
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 828
+        width: 493
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ce872692b1e860800000000000000
+      internalID: 7557518007682908278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_5
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 756
+        width: 496
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e56647d71cecc00800000000000000
+      internalID: 922887718225469083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 387
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2cbffb7acd1c4b0800000000000000
+      internalID: -5421809863338769757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 100
+        width: 348
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2fcb9011ba70a0800000000000000
+      internalID: -6882994395590743416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_8
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 101
+        width: 496
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef534110f1e988a0800000000000000
+      internalID: -6302257782330269721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_0: 6496251640487757087
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_1: -8782367006869370434
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_2: 185275432679567350
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_3: 8231144616764657928
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_4: 7557518007682908278
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_5: 922887718225469083
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_6: -5421809863338769757
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_7: -6882994395590743416
+      Lovepik_com-450067268-Flat Vector Icons of Furniture in Editable Style_8: -6302257782330269721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
